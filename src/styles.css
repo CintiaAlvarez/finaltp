@@ -1,0 +1,50 @@
+main > .container {
+  padding: 30px 0;
+}
+
+strong {
+  font-size: larger;
+  color: pink;
+}
+
+strong:hover {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.btn {
+  background-color: pink;
+  padding: black;
+}
+
+.btn:hover {
+  background-color: white;
+}
+
+.navbar-toggler {
+  background-color: pink;
+}
+
+.card-link {
+  text-decoration: none;
+  color: black;
+  font-style: bold;
+}
+
+.card-link:hover {
+  color: pink;
+}
+
+a {
+  text-decoration: none;
+}
+
+.tarjetas {
+  background-color: pink;
+  height: 50vh;
+  margin: 5%;
+  padding: 5%;
+}

@@ -1,0 +1,67 @@
+main > .container {
+  padding: 30px 0;
+}
+
+strong {
+  font-size: larger;
+  color: pink;
+}
+
+strong:hover {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.btn {
+  background-color: pink;
+  padding: black;
+}
+
+.btn:hover {
+  background-color: white;
+}
+
+.navbar-toggler {
+  background-color: pink;
+}
+
+.card-link {
+  text-decoration: none;
+  color: black;
+  font-style: bold;
+}
+
+.card-link:hover {
+  color: pink;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  margin: 5%;
+  font-style: bold;
+  padding: 5;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background-color: pink;
+  height: 150vh;
+  margin: 10%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5%;
+  border-color: black;
+}
